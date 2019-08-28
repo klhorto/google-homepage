@@ -32,6 +32,22 @@ input {
     box-sizing: border-box;
 }
 
+button {
+    font-size: 12px;
+    padding: 12px 28px;
+    background-color: #D1D0D1;
+    color: rgb(37, 37, 37);
+    border-radius: 4px;
+    float: right;
+
+}
+
+.divider {
+    width: 10px;
+    height: auto;
+    display: inline;
+}
+
 .center {
     margin: auto;
     width: 50%;
